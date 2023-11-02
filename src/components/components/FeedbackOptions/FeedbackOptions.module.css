@@ -1,0 +1,23 @@
+.buttonContainer {
+    display: flex;
+    gap: 20px;
+
+}
+
+.btn {
+    text-transform: capitalize;
+    width: 100px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    box-shadow: rgb(0 0 0 / 17%) 0px 3px 3px -2px, rgb(0 0 0 / 15%) 0px 3px 4px 0px, rgb(0 0 0 / 10%) 0px 1px 8px 0px;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+.btn:hover {
+    background-color: #fff;
+}
